@@ -19,6 +19,7 @@ My favorite things about CS193!
 - Being more enjoyable than abysmally boring CS180 BK **BECAUSE I SPENT 2 YEARS OF CS IN HIGH SCHOOL AND GOT A 5 ON THE AP CS A EXAM THAT DIDN'T COUNT FOR JACK**
 - The easy quizzes
 - The free whatever GitHub Student Backpack thingy is
+
 What a day to be some **bold** text am I right, _Italic_?
 
 ### Markdown
